@@ -3,7 +3,7 @@ title: Visual Studio
 layout: post
 category: app
 sortReleasesBy: "cycleShortHand"
-releaseLabel: '__RELEASE_CYCLE__ __CODENAME__'
+releaseLabel: '__RELEASE_CYCLE__ version __CODENAME__'
 # A list of releases, supported or not
 # Newer releases go on top of the list, in order
 releases:
